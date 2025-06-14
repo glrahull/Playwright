@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d68c1fc-fdd0-4d89-94f8-86b003b4d2fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PlaywrightLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcases/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcases/test_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcases/test_playwright.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/Openaiplaywright.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/Openaipytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/Openaitest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/pytest.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2yJhIPGfen0nlzuaN1izByxLIk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for Openaiplaywright.test_way2automation.executor": "Run",
+    "Python tests.Python tests for Openaipytest.test_way2automation.executor": "Run",
+    "Python tests.Python tests for test_assignment.test_1st_search.executor": "Run",
+    "Python tests.Python tests for test_assignment.test_make_mytrip.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_alert.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_assertions.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_auth.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_checkboxes.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_download_file.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_file_upload.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_finding_element.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_first_example.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_handling_dropdown.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_handling_links.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_http_authentication.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_iframe.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_javascript.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_mouseover.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_multiple_file_upload.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_resizable.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_right_click.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_shadowroot.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_slider.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_tabsandpopup.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_tryit.executor": "Run",
+    "Python tests.Python tests for test_playwright.test_webtables.executor": "Run",
+    "Python tests.Python tests in test_assignment.py.executor": "Run",
+    "Python tests.Python tests in test_playwright.py.executor": "Run",
+    "Python.Openaitest.executor": "Run",
+    "Python.prac.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_playwright.test_download_file">
+    <configuration name="Openaitest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai/Openaitest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Openaiplaywright.test_way2automation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Openaiplaywright.test_way2automation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Openaipytest.test_way2automation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Openaipytest.test_way2automation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_assignment.test_1st_search" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_assignment.test_1st_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_playwright.test_download_file" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_playwright.test_download_file&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_playwright.test_first_example" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="PlaywrightLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--browser chromium --headed&quot;" />
+      <option name="_new_target" value="&quot;test_playwright.test_first_example&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_playwright.test_download_file" />
+        <item itemvalue="Python tests.Python tests for test_assignment.test_1st_search" />
+        <item itemvalue="Python tests.Python tests for Openaiplaywright.test_way2automation" />
+        <item itemvalue="Python tests.Python tests for Openaipytest.test_way2automation" />
+        <item itemvalue="Python.Openaitest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d68c1fc-fdd0-4d89-94f8-86b003b4d2fb" name="Changes" comment="" />
+      <created>1749558502770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749558502770</updated>
+    </task>
+    <servers />
+  </component>
+</project>
